@@ -5,8 +5,6 @@
  /**
   * main - Entry point
   *
-  * Description: main
-  *
   * Return: Always 0 (Success)
   */
 
