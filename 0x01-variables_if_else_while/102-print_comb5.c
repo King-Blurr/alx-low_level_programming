@@ -31,10 +31,10 @@ int main(void)
 						putchar(' ');
 						putchar(b);
 						putchar(a);
-					if (d == 57 && c == 57 && b == 57 && a == 57)
+					if (d == 57 && c == 56 && b == 57 && j == 57)
 							break;
-							putchar(',');
-							putchar(' ');
+						putchar(',');
+						putchar(' ');
 					}
 					a++;
 				}
