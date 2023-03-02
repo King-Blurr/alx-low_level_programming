@@ -1,9 +1,10 @@
 #include "main.h"
 
 /**
- * reverse_array 
- *
- *
+ * reverse_array - reverse
+ * @a: pointer to int parameters
+ * @n: pointer to int parameters
+ * Return: no
  */
 
 void reverse_array(int *a, int n)
