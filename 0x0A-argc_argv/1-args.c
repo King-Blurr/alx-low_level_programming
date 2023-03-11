@@ -4,7 +4,7 @@
  * main - Entry point
  * @argc: argument count
  * @argv: argument vector
- * Return: Always return 0
+ * Return: Always return argc
  */
 
 int main(int argc, char *argv[])
@@ -12,5 +12,5 @@ int main(int argc, char *argv[])
 	(void)argv;
 
 	printf("argc = %d\n", argc - 1);
-	return 0;
+	return (0);
 }
