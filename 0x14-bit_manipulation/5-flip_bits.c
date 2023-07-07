@@ -4,6 +4,7 @@
  * flip_bits - returns hamming distance of two bit words
  * which is the number of bits you would need to flip to get
  * from one number to another
+ *
  * @n: the first bit word
  * @m: the second bit word
  *

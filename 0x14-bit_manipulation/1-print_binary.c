@@ -5,6 +5,7 @@
  * @base: base of the exponent
  * @power: power of the exponent
  *
+ *
  * Return: value of (base ^ power)
  */
 unsigned long int _pow(unsigned int base, unsigned int power)

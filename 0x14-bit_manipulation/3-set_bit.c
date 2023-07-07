@@ -3,7 +3,9 @@
 /**
  * set_bit - gets bit on position `index`
  * @n: an unsigned int number
+ *
  * @index: position of the bit
+ *
  * Return: 1 on success or -1 on failure
  */
 
