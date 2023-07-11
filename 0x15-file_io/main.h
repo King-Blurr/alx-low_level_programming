@@ -1,14 +1,17 @@
 #ifndef MAIN_H
 #define MAIN_H
 
+
 #include <stdio.h>
 #include <fcntl.h>
 #include <unistd.h>
 #include <stdlib.h>
 #include <elf.h>
 
+
 #include <sys/types.h>
 #include <sys/stat.h>
+
 
 void print_magic(unsigned char *e_ident);
 void print_class(unsigned char *e_ident);

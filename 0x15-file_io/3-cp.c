@@ -1,10 +1,12 @@
 #include "main.h"
-
 #define MAXSIZE 1024
+
 /**
  * main - the entry point
+ * 
  * @argc: arguement count
  * @argv: argument vector
+ * 
  * Return: returns 0 if success
  */
 

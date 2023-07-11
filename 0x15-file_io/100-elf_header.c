@@ -4,9 +4,11 @@
 /**
  * main - main entry point
  * @argc: argument count
+ * 
  * @argv: argument vector
  * Return: 0 if success
  */
+
 int main(int argc, char *argv[])
 {
 	register int fd, r, c;

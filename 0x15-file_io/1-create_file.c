@@ -3,7 +3,9 @@
 /**
  * create_file - a function that creates a file
  * @filename: the filename
+ *
  * @text_content: the string to be ritten to the file
+ * 
  * Return: return 1 on success and -1 on failure
  */
 
