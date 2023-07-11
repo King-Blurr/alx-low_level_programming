@@ -5,7 +5,7 @@
  * @filename: the filename
  *
  * @text_content: the string to be appended
- * 
+ *
  * Return: return 1 on success and -1 on failure
  */
 

@@ -3,10 +3,10 @@
 
 /**
  * main - the entry point
- * 
+ *
  * @argc: arguement count
  * @argv: argument vector
- * 
+ *
  * Return: returns 0 if success
  */
 

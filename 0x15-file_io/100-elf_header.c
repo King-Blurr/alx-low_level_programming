@@ -4,7 +4,7 @@
 /**
  * main - main entry point
  * @argc: argument count
- * 
+ *
  * @argv: argument vector
  * Return: 0 if success
  */
@@ -124,6 +124,7 @@ void print_data(unsigned char *e_ident)
  * print_version - print ELF's version
  * @e_ident: pointer to char array
  */
+
 void print_version(unsigned char *e_ident)
 {
 	printf("  Version:                           ");
